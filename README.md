@@ -20,6 +20,7 @@ Estas frentes têm estágios diferentes. O roadmap indica propostas de trabalho;
 Acesso à comunidade não concede ações, quotas, dividendos ou emprego. Eventuais oportunidades de investimento terão documentos, destinatários e canais próprios. Este repositório não recebe investimentos, donativos ou reservas de capital.
 
 ## Documentação
+- [AtlasClub: biblioteca gratuita e exercícios práticos](docs/comunidade/README.md)
 - [Projeto e modelo de negócio](docs/PROJETO.md)
 - [Roadmap de 90 dias](docs/ROADMAP.md)
 - [Genesis Futuro](docs/GENESIS-FUTURO.md)
