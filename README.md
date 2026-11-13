@@ -32,3 +32,10 @@ Acesso à comunidade não concede ações, quotas, dividendos ou emprego. Eventu
 **Contacto:** contact@atlashub.si · [Portal AtlasClub](https://club.atlashub.si)
 
 Atualização: 3 de novembro de 2026. Documento institucional; os nomes de produtos não constituem uma oferta de venda nem comprovam uma estrutura jurídica de grupo.
+
+
+---
+
+## AtlasHub.SI — legal identity, support and provenance
+
+This project forms part of the [AtlasHub.SI ecosystem](https://atlashub.si), stewarded with the [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas) source reference. See [ATLAS.md](ATLAS.md), [LEGAL.md](LEGAL.md) and [LICENSE](LICENSE) for the original-materials rights notice. **Legal:** legal@Atlas-SI.com · **Support:** support@AtlasHub.SI.
